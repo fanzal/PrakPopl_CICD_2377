@@ -52,4 +52,4 @@ docker:
       with:
         context: .
         push: true
-        tags: hidayatnurrr/praktikum-popl-nodejs:latest
+        tags: fanzal/praktikum-popl
